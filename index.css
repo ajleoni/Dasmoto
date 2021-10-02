@@ -1,9 +1,8 @@
 * {
-    border: 1px solid red;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 100px;
     font-weight: bold;
     color: khaki;
@@ -12,7 +11,6 @@ h1 {
 }
 
 h2 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
     font-weight: bold;
     color: white;
@@ -31,7 +29,6 @@ background-color: mediumspringgreen;
 }
 
 p span {
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color: blue;
 }
